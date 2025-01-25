@@ -62,3 +62,5 @@ but when we use a color software the values will represent different values of r
 
 
 So those same values will represent this shade of Yellow actually 
+
+![Relative](/Lecture%200/RGB.png)
