@@ -46,21 +46,33 @@ Here is an expanded map of ASCII values:
 | 14 | SO | 30 | RS | 46 | . | 62 | > | 78 | N | 94 | ^ | 110 | n | 126 | ~ |  |
 | 15 | SI | 31 | US | 47 | / | 63 | ? | 79 | O | 95 | _ | 111 | o | 127 | DEL |  |
 
-## **Unicode**
 
-The problem of ascii was it only used a byte of information so we could theoretically and practically have 255 characters ….. with unicode we started using more than 8 like 16 , 24 or 32 
+
+
+## **Unicode**  
+
+
+The problem of ascii was it only used a byte of information so we could theoretically and practically have 255 characters . With unicode we started using more than 8 like 16 , 24 or 32 
 so with 32 bit we can count upto 4 billion and solve the counting values 
+
 Unicode still contains the values already fixed by ascii and also adds more like every language , emoji , font , special characters. 
 
 ## **Colors (RGB)**
 
 So we figured out how we will represent the characters and symbols and emojis …
-but now how do the computers understand colors ?
-actually the same 
-remember that 72 73 33  which previously said HI! 
+but now how do the computers understand colors ?  
+
+actually the same  
+remember that 72 73 33  which previously said HI!  
 but when we use a color software the values will represent different values of red green and blue 
 
 
+![Relative](/Lecture%200/RGB.png)
+
 So those same values will represent this shade of Yellow actually 
 
-![Relative](/Lecture%200/RGB.png)
+![Relative](/Lecture%200/Yellow.png)
+
+# **Algorithms**
+
+So our target is solving problems 
