@@ -67,11 +67,11 @@ remember that 72 73 33  which previously said HI!
 but when we use a color software the values will represent different values of red green and blue 
 
 
-![Relative](/Lecture%200/RGB.png)
+![Relative](1/Lecture%200/RGB.png)
 
 So those same values will represent this shade of Yellow actually 
 
-![Relative](/Lecture%200/Yellow.png)
+![Relative](1/Lecture%200/Yellow.png)
 
 # **Algorithms**
 
@@ -94,3 +94,4 @@ I recommend you try this course
 
 ### **N.B.**
 I referenced CS courses By MIT and Harvard courses for this Note.
+
