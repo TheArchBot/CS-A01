@@ -75,4 +75,22 @@ So those same values will represent this shade of Yellow actually
 
 # **Algorithms**
 
-So our target is solving problems 
+Remember, so our target is solving problems 
+As programmer's we solve problems , if there's no problem then we make it and then solve that ......   
+
+So why am I talking about solving problems in the algorithms ??
+
+
+Let's take a demo problem and explain why you need algorithm to solve problem 
+
+
+
+
+I recommend you try this course  
+[MIT Algorithms Course](https://youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&si=fe6kJHq4VuPsmxEe)  
+
+
+
+
+### **N.B.**
+I referenced CS courses By MIT and Harvard courses for this Note.
