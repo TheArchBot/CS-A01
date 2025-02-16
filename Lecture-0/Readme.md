@@ -95,3 +95,4 @@ I recommend you try this course
 ### **N.B.**
 I referenced CS courses By MIT and Harvard courses for this Note.
 
+Tags: [[CS]]
